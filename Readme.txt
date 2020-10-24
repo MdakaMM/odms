@@ -17,4 +17,4 @@ How to run the Online DJ Booking  Management System Project
 Admin Credential
 
 Username: admin
-Password: Test@123
+Password: Test123
